@@ -219,7 +219,12 @@
     "BLUE_660": "#D53F3F",
     "BLUE_700": "#D53F3F"
   },
-   "CHAT_GREY": "#101014"
+    "CHAT_GREY": "#101014",
+    "background": {
+    "url": "https://media.discordapp.net/attachments/550809673637298201/1116259195034030182/rnZ1cblQ9x.png",
+    "blur": 1,
+    "alpha": 0.6
+ 
   },
   "color": "#D2042D"
 }
