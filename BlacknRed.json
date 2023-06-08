@@ -219,12 +219,7 @@
     "BLUE_660": "#D53F3F",
     "BLUE_700": "#D53F3F"
   },
-   "CHAT_GREY": "#101014",
-    "background": {
-    "url": "https://wallpaperaccess.com/full/3227780.jpg",
-    "blur": 1,
-    "alpha": 0.6
- 
+   "CHAT_GREY": "#101014"
   },
   "color": "#D2042D"
 }
